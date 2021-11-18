@@ -1,0 +1,50 @@
+</HTML>
+    <head>
+        <title></title>
+    </head> 
+<center>
+    <body>
+        <img src="C:\DU Website\Images\DU-logo (1).svg"
+        <img src="https://www.darshan.ac.in/Content/media/DU-logo.svg"
+    </body>
+</center>
+<center>  
+    <body>       
+         <h1 align="middle">Darshan University Home Page</h1>
+        <table border="1px">
+        <tr>
+            <th colspan="4">Faculties</th>
+        </tr>
+        <tr>
+            <th colspan="4">of Department of Computer Science and Engineering</th>
+        </tr>
+        <tr>
+            <th><img src="C:\DU Website\Images\Dr. Gopi Sanghani.jpg"></th>
+            <th><img src="C:\DU Website\Images\Dr. Nilesh Gambhava.jpg"></th>
+            <th><img src="C:\DU Website\Images\Dr. Pradyumansinh Jadeja.jpg"></th>
+            <th><img src="C:\DU Website\Images\Prof. Dixita Kagathara.jpg"></th>
+        </tr>
+
+        <tr align="middle">
+            <td>Dr. Gopi Sanghani</td>
+            <td>Dr. Nilesh Gambhva</td>
+            <td>Dr. Pradhyumansinh Jadeja</td>
+            <td>Prof. Maulik Trivedi</td>
+        </tr>
+
+        <tr align="middle">
+            <td>Dean-School of Computer Science</td>
+            <td>Professor</td>
+            <td>Associate Professor</td>
+            <td>Assistant Professor</td>
+        </tr>
+        <tr align="middle">
+            <td colspan="3">Ph.D,ME.(CE)</td>
+            <td>M.Tech.(CSE)</td>
+            
+        </tr>
+       
+    </table>
+    </body>
+</center>
+</HTML>
